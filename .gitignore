@@ -1,0 +1,10 @@
+.tools/
+OneOne.zip
+*.tmp
+*.log
+*.raw
+acc_tmp.csv
+Acc.csv
+config.json
+.acc_lock/
+finder_v2_src/test_screens/
